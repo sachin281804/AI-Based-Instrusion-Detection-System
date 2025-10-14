@@ -1,0 +1,16 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore big datasets
+uploads/*.csv
+*.h5
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
