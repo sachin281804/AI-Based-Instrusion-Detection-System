@@ -19,7 +19,7 @@ This system detects and classifies network attacks in real-time, providing a web
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Shivanshssj/AI-Based-Intrusion-Detection-System.git
+git clone https://github.com/sachin281804/AI-Based-Instrusion-Detection-System.git
 cd AI-Based-Intrusion-Detection-System
 ```
 2. Create a virtual environment
